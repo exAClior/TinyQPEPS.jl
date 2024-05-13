@@ -1,0 +1,14 @@
+#+title: Remake of QuantumPEPS.jl
+#+author: Yusheng Zhao
+#+date: today
+
+
+* Goal
+Recreate contents in the [[https://github.com/GiggleLiu/QuantumPEPS.jl][pacakage]]. Since the intellectual uncertainty has
+already been removed in the [[https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.1.023025][paper]], this pacakge will seek to explore the
+engineering uncertainty.
+
+* Techniques
+- Automatic Differentiation
+- CUDA programming
+- ZX-Calculus
